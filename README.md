@@ -1,3 +1,5 @@
+# Lab 08: Introduction to Version Control
+
 ## 1. What is Version Control?
 *Version control* is a system that records changes to a file or set of files over time so that I can recall specific versions later. It allows multiple people to collaborate on a project without overwriting each other's work.
 
